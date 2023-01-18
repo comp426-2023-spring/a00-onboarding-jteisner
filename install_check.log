@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin jacobsmac.local 22.1.0 Darwin Kernel Version 22.1.0: Sun Oct  9 20:15:09 PDT 2022; root:xnu-8792.41.9~2/RELEASE_ARM64_T6000 arm64
+SHELL:	[/bin/bash]
+GIT:	[/usr/local/bin/git] git version 2.15.0
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 9.0 (2022 Jun 28, compiled Sep 30 2022 03:10:57)
+CURL:	[/usr/bin/curl] curl 7.84.0 (x86_64-apple-darwin22.0) libcurl/7.84.0 (SecureTransport) LibreSSL/3.3.6 zlib/1.2.11 nghttp2/1.47.0
+NODE:	[/Users/jacobeisner/.nvm/versions/node/v18.13.0/bin/node] v18.13.0
